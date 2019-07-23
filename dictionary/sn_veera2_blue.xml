@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="blue" max_length="40" name="sn_veera2_blue" type="collection">
+        <element label="b1" max_length="40" name="b1" type="string"/>
+        <element label="b2" max_length="40" name="b2" type="string"/>
+    </element>
+</database>
