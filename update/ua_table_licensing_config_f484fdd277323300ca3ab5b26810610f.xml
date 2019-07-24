@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>sn_veera2_ctable</name>
+        <name>sn_veera2_blue</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-07-23 21:45:14</sys_created_on>
-        <sys_id>6f40ca0a77323300ca3ab5b2681061bb</sys_id>
+        <sys_created_on>2019-07-23 14:49:35</sys_created_on>
+        <sys_id>f484fdd277323300ca3ab5b26810610f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sn_veera2_ctable</sys_name>
+        <sys_name>sn_veera2_blue</sys_name>
         <sys_package display_value="veera2" source="sn_veera2">59bb1cc677323300ca3ab5b268106181</sys_package>
         <sys_policy/>
         <sys_scope display_value="veera2">59bb1cc677323300ca3ab5b268106181</sys_scope>
-        <sys_update_name>ua_table_licensing_config_6f40ca0a77323300ca3ab5b2681061bb</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_f484fdd277323300ca3ab5b26810610f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-23 21:45:14</sys_updated_on>
+        <sys_updated_on>2019-07-23 14:49:35</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>
