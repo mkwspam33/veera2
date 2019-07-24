@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="CTable" max_length="40" name="sn_veera2_ctable" type="collection">
         <element choice="1" label="CStr" max_length="40" name="cstr" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="Green" value="green"/>
+                <element inactive_on_update="false" label="Red" value="red"/>
+            </choice>
         </element>
     </element>
 </database>
