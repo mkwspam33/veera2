@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="blue" max_length="40" name="sn_veera2_blue" type="collection">
-        <element label="B1" max_length="40" name="b1" type="string"/>
         <element label="B2" max_length="40" name="b2" type="string"/>
         <element label="B3" max_length="40" name="b3" type="string"/>
         <element label="B4" max_length="40" name="b4" type="string"/>
+        <element label="B5" max_length="40" name="b5" type="string"/>
     </element>
 </database>

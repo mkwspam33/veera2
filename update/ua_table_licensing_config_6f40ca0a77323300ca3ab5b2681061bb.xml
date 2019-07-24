@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-23 21:45:14</sys_created_on>
-        <sys_id>d80b7d4677323300ca3ab5b2681061ec</sys_id>
+        <sys_id>6f40ca0a77323300ca3ab5b2681061bb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>sn_veera2_ctable</sys_name>
         <sys_package display_value="veera2" source="sn_veera2">59bb1cc677323300ca3ab5b268106181</sys_package>
         <sys_policy/>
         <sys_scope display_value="veera2">59bb1cc677323300ca3ab5b268106181</sys_scope>
-        <sys_update_name>ua_table_licensing_config_d80b7d4677323300ca3ab5b2681061ec</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_6f40ca0a77323300ca3ab5b2681061bb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-07-23 21:45:14</sys_updated_on>
     </ua_table_licensing_config>

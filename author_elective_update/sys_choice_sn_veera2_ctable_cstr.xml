@@ -1,77 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="cstr" table="sn_veera2_ctable" version="3">
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>cstr</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Blue</label>
-            <language>en</language>
-            <name>sn_veera2_ctable</name>
-            <sequence/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-23 21:46:07</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>953b318677323300ca3ab5b2681061eb</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-23 21:46:16</sys_updated_on>
-            <value>blue</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>cstr</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Green</label>
-            <language>en</language>
-            <name>sn_veera2_ctable</name>
-            <sequence/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-23 21:46:18</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>6d3bb18677323300ca3ab5b268106149</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-23 21:46:19</sys_updated_on>
-            <value>green</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>cstr</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Red</label>
-            <language>en</language>
-            <name>sn_veera2_ctable</name>
-            <sequence/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-23 21:46:21</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>8c4b718677323300ca3ab5b2681061df</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-23 21:46:23</sys_updated_on>
-            <value>red</value>
-        </sys_choice>
-        <sys_choice_set action="INSERT_OR_UPDATE">
+    <sys_choice action="DELETE" field="cstr" table="sn_veera2_ctable" version="3">
+        <sys_choice_set action="DELETE">
             <element>cstr</element>
             <name>sn_veera2_ctable</name>
-            <sys_class_name>sys_choice_set</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-23 21:46:07</sys_created_on>
-            <sys_id>113b318677323300ca3ab5b2681061ec</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>cstr</sys_name>
-            <sys_package display_value="veera2" source="sn_veera2">59bb1cc677323300ca3ab5b268106181</sys_package>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
             <sys_policy/>
-            <sys_scope display_value="veera2">59bb1cc677323300ca3ab5b268106181</sys_scope>
-            <sys_update_name>sys_choice_sn_veera2_ctable_cstr</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-23 21:46:07</sys_updated_on>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2019-07-23 22:03:18</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>evosandbox8080</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_choice_sn_veera2_ctable_cstr</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="cstr" table="sn_veera2_ctable" version="3"><sys_choice_set action="DELETE"><element>cstr</element><name>sn_veera2_ctable</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2019-07-23 22:03:18</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1848692160</payload_hash>
+        <record_name>sn_veera2_ctable.cstr</record_name>
+        <reverted_from/>
+        <source>f192e44e77323300ca3ab5b268106138</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-23 22:03:18</sys_created_on>
+        <sys_id>b82ffdc677323300ca3ab5b268106166</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c20dc352a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-23 22:03:18</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>342ffdc6b032330032605ec8badc3166</update_guid>
+        <update_guid_history>342ffdc6b032330032605ec8badc3166:1848692160,342ffdc61b32330022a1507b44e12e63:701171202,fc2ffdc67f32330045177cece42ee560:1683151738,cfabf58604323300ca5754834045510c:-1024146572,616b3586fa3233006d14819c3fe3e634:1559319796,856b35866e32330020b6a14decae2756:-746543002,414bb186da3233001fc7234e38902c37:-1024146572,a04b71866532330051e1ace681418cbe:10147532,944b71860732330053e8b763c9dd15ba:-1202790292,f33bb1866b323300a8ccec9b01ca6ea1:1499934470,1f3bb18630323300f3315e5d13ca0077:-168433384,c73bb18633323300a198097483649c73:-874276195,1d3bb186b33233000dc1593d8b069b30:125119192</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-23 22:09:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>9980ca0a77323300ca3ab5b2681061bc</sys_id>
+        <sys_metadata>9980ca0a77323300ca3ab5b2681061bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cstr</sys_name>
+        <sys_package display_value="veera2" source="sn_veera2">59bb1cc677323300ca3ab5b268106181</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="veera2">59bb1cc677323300ca3ab5b268106181</sys_scope>
+        <sys_scope_delete display_value="">98c04fedfdb041a19cf7f2ec3d2deb29</sys_scope_delete>
+        <sys_update_name>sys_choice_sn_veera2_ctable_cstr</sys_update_name>
+        <sys_update_version display_value="sys_choice_sn_veera2_ctable_cstr">b82ffdc677323300ca3ab5b268106166</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-23 22:09:23</sys_updated_on>
+    </sys_metadata_delete>
 </record_update>

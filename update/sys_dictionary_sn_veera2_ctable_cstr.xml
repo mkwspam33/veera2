@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-23 21:45:48</sys_created_on>
-        <sys_id>601bfd4677323300ca3ab5b2681061f6</sys_id>
+        <sys_id>ab40ca0a77323300ca3ab5b2681061b1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>CStr</sys_name>
         <sys_package display_value="veera2" source="sn_veera2">59bb1cc677323300ca3ab5b268106181</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="veera2">59bb1cc677323300ca3ab5b268106181</sys_scope>
         <sys_update_name>sys_dictionary_sn_veera2_ctable_cstr</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-23 21:45:48</sys_updated_on>
+        <sys_updated_on>2019-07-23 22:09:22</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
