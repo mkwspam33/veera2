@@ -6,5 +6,11 @@
                 <element inactive_on_update="false" label="Red" value="red"/>
             </choice>
         </element>
+        <element choice="1" label="CSTr2" max_length="40" name="cstr2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="X1" value="x1"/>
+                <element inactive_on_update="false" label="X2" value="x2"/>
+            </choice>
+        </element>
     </element>
 </database>
